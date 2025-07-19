@@ -10,7 +10,7 @@ The analysis utilizes data sourced from the World Health Organization (WHO), ava
 
 ### Global Road Safety Snapshot 🌐
 
-![images/page1](images/page1)
+![images/page1](images/page1.png)
 
 In 2021, the estimated global road traffic deaths stood at **1.16 million**, with an average death rate of **13.29 per 100,000 population**. WHO utilizes counter-intuitive division into regions (instead of continents), which is also applied in this work.
 
