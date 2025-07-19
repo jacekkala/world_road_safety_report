@@ -42,7 +42,7 @@ This section identifies key vehicle safety standards and behaviors that signific
   * Child Seats Technical Requirements is Yes: decreases by **9.11**
   * Frontal Crash Test Required: decreases by **8.99**
   * Seat Belt Anchorages Required: decreases by **8.02**
-* **Seat-belt Usage Rate:** An increase of 27.26% in seat-belt usage rate correlates with a decrease of **0.71** in the average estimated road traffic death rate. 🎯
+* **Seat-belt Usage Rate:** An increase of 27.26% in seat-belt usage rate correlates with a decrease of **0.71** in the average estimated road traffic death rate.
 
 ### Country Deep Dive 🇺🇳
 
@@ -55,7 +55,7 @@ This section allows for a detailed comparison of selected country metrics agains
   * Est. Road Traffic Deaths (2021): 1.16M
   * Average Death Rate Per 100K (2021): 13.29
   * Alcohol-Related Traffic Deaths (2017): 7.57%
-  * Seat-Belt Wearing Rate (2017): 68.65% 🧷
+  * Seat-Belt Wearing Rate (2017): 68.65%
 * **Regulatory Questions:** Additionally, the dashboard highlights whether a selected country has:
 
   * Child seats meeting international standards required.
