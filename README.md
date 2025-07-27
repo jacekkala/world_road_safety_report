@@ -29,7 +29,7 @@ In 2021, the estimated global road traffic deaths stood at **1.16 million**, wit
 * **Top Countries by Road Traffic Deaths:** 🇨🇳 China (248.10K) and 🇮🇳 India (205.89K) lead in the absolute number of road traffic deaths. These are the biggest countries by population in the world, along with 🇺🇸 the US.
 * **Vehicle Safety Standards by Region:** The maps illustrate the legal requirements (defined by the United Nations) for seat-belt system design, electronic stability control, and vehicle crash tests across different regions. It's notable that these standards are widely applied in European countries, although less so in some countries in its Eastern part. On the other hand, they are not commonly applied in African, Middle Eastern, and Western Asian countries, as well as in South America (e.g., China and India do not require ESC systems in their vehicles).
 
-### 3. Key Road Safety Influencers ⚠️
+### Key Road Safety Influencers ⚠️
 
 ![images/page4](images/page4.png)
 
