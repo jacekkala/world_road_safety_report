@@ -52,10 +52,10 @@ This section allows for a detailed comparison of selected country metrics agains
 
 * **Key Metrics (Global Average):**
 
-  * Est. Road Traffic Deaths (2021): 1.16M
-  * Average Death Rate Per 100K (2021): 13.29
-  * Alcohol-Related Traffic Deaths (2017): 7.57%
-  * Seat-Belt Wearing Rate (2017): 68.65%
+  * Est. Road Traffic Deaths (2021): **1.16M**
+  * Average Death Rate Per 100K (2021): **13.29**
+  * Alcohol-Related Traffic Deaths (2017): **7.57%**
+  * Seat-Belt Wearing Rate (2017): **68.65%**
 * **Regulatory Questions:** Additionally, the dashboard highlights whether a selected country has:
 
   * Child seats meeting international standards required.
