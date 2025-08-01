@@ -4,7 +4,7 @@ This repository presents a comprehensive analysis of global road safety, explori
 
 The analysis utilizes data sourced from the World Health Organization (WHO), available at [the WHO road safety page](https://www.who.int/data/gho/data/themes/road-safety). The data for road traffic deaths and death rates comes from 2021, the rest backs to 2017 or 2016.
 
-## Global Road Safety Snapshot 🌐
+## Global Road Safety Snapshot 🌍
 
 ![images/page2](images/page2.png)
 
