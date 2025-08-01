@@ -4,9 +4,7 @@ This repository presents a comprehensive analysis of global road safety, explori
 
 The analysis utilizes data sourced from the World Health Organization (WHO), available at [the WHO road safety page](https://www.who.int/data/gho/data/themes/road-safety). The data for road traffic deaths and death rates comes from 2021, the rest backs to 2017 or 2016.
 
-## Insights 🔍
-
-### Global Road Safety Snapshot 🌐
+## Global Road Safety Snapshot 🌐
 
 ![images/page2](images/page2.png)
 
@@ -17,7 +15,7 @@ In 2021, the estimated global road traffic deaths stood at **1.16 million**, wit
 * **Urban Speed Limits and Traffic Mortality:** The scatter plot shows a varied relationship between maximum urban speed limits and estimated road traffic death rates, indicating that other factors also play a significant role. It's striking to see values over 80 km/h or even 100 km/h in some countries, with speed limits often depending on the vehicle type and numerous other factors.
 * **Driver Alcohol Limits:** The distribution of countries by driver alcohol limits shows that the most common threshold is 0.05% Blood Alcohol Concentration (BAC), widely enforced in Europe, with some countries (notably in African and Latin American regions) implementing the highest 0.08% threshold. Five countries in the world execute zero-tolerance policies (0.00% BAC). In Europe, Slovakia and Hungary are highlighted as such countries.
 
-### Trends & Geographic Overview 🗺️📈
+## Trends & Geographic Overview 🗺️📈
 
 ![images/page3](images/page3.png)
 
@@ -25,7 +23,7 @@ In 2021, the estimated global road traffic deaths stood at **1.16 million**, wit
 * **Top Countries by Road Traffic Deaths:** 🇨🇳 China (248.10K) and 🇮🇳 India (205.89K) lead in the absolute number of road traffic deaths. These are the biggest countries by population in the world, along with 🇺🇸 the US.
 * **Vehicle Safety Standards by Region:** The maps illustrate the legal requirements (defined by the United Nations) for seat-belt system design, electronic stability control, and vehicle crash tests across different regions. It's notable that these standards are widely applied in European countries, although less so in some countries in its Eastern part. On the other hand, they are not commonly applied in African, Middle Eastern, and Western Asian countries, as well as in South America (e.g., China and India do not require ESC systems in their vehicles).
 
-### Key Road Safety Influencers ⚠️
+## Key Road Safety Influencers ⚠️
 
 ![images/page4](images/page4.png)
 
@@ -40,7 +38,7 @@ This section identifies key vehicle safety standards and behaviors that signific
   * Seat Belt Anchorages Required: decreases by **8.02**
 * **Seat-belt Usage Rate:** An increase of 27.26% in seat-belt usage rate correlates with a decrease of **0.71** in the average estimated road traffic death rate.
 
-### Country Deep Dive 🇺🇳
+## Country Deep Dive 🇺🇳
 
 ![images/page5](images/page5.png)
 
