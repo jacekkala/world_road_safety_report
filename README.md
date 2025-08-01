@@ -1,5 +1,3 @@
-# 🚗 World Road Safety Analysis - Power BI Report 📊
-
 ## Overview 🌍
 
 ![images/page1](images/page1.png)
