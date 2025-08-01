@@ -3,4 +3,9 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: 🚗 World Road Safety Analysis - Power BI Report 📊
-description: Discover how global road safety policies and driver behaviors impact traffic fatalities—and which life-saving measures could make roads safer for everyone
+description: What does the data tells us about creating safer roads for all?
+
+header: |
+  <style>
+    h1 { font-size: 10px !important; }
+  </style>
