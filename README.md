@@ -1,3 +1,9 @@
+<style>
+  header {
+    display: none !important;
+  }
+</style>
+
 ![images/page1](images/page1.png)
 
 This repository presents a comprehensive analysis of global road safety, exploring various factors that influence road traffic deaths worldwide. The primary goal of this project is to investigate the correlation between road traffic deaths and the adoption of safety standards by drivers (e.g., seat belt usage, driving under influence) and the implementation of vehicle safety standards.
